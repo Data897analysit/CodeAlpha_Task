@@ -2,7 +2,8 @@
 
 DataSet Link :- https://www.kaggle.com/datasets/grikomsn/amazon-cell-phones-reviews?utm_source=chatgpt.com
 
-.PROBLEM STATEMENT
+PROBLEM STATEMENT
+
 Although the dataset is structured, brands lack clear insights into customer satisfaction, rating patterns, sentiment distribution, and price–rating relationships. The challenge is to analyze ratings, reviews, and brand-wise performance to identify strengths, weaknesses, and improvement areas. Understanding customer sentiment is essential for making informed business and product decisions.
 
 
